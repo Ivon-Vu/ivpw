@@ -1,0 +1,1 @@
+import{j as r,g as a}from"./index-Cx1jAnW9.js";const o=r("lang",()=>{const n=a(["en","zh"]),e=a(0),t=a(n.value[e.value]);function u(){e.value=(e.value+1)%n.value.length,t.value=n.value[e.value]}return{switchLang:u,currentLang:t}});export{o as u};
