@@ -1,6 +1,6 @@
 ### Email
 
-grassoftokyosoul@gmail.com
+ivonvu.dev@gmail.com
 
 ### Wechat
 
@@ -9,5 +9,6 @@ Vietnam DJ
 ### Phone
 
 0493467785(+61)  
+
 
 #### all methods are welcomed!
