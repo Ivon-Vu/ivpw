@@ -1,14 +1,14 @@
 ### 邮箱
 
-MIHOYOguard@gmail.com
+2419998084@qq.com
 
 ### 微信
 
-Vietnam DJ
+wxid_w2wwk5dcxivs22
 
 ### 电话号码
 
-15608115585(+86)
-
+15608115585(+86)  
 
 #### 欢迎通过以上方式联系我！
+
